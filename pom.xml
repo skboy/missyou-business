@@ -29,6 +29,7 @@
 
     <modules>
         <!-- 服务模块 -->
+        <module>missyou-business-core</module>
     </modules>
 
     <dependencies>
