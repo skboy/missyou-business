@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.missyou</groupId>
         <artifactId>missyou-parent</artifactId>
-        <version>1.0.0.RELEASE</version>
+        <version>1.0.1.RELEASE</version>
     </parent>
 
     <artifactId>missyou-business</artifactId>
@@ -14,9 +14,9 @@
     <description>业务逻辑层</description>
 
     <scm>
-        <connection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-dependencies.git</connection>
-        <developerConnection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-dependencies.git</developerConnection>
-        <url>http://gitlab.skboyed.xyz/missyou/missyou-dependencies</url>
+        <connection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-business.git</connection>
+        <developerConnection>scm:git:http://gitlab.skboyed.xyz/missyou/missyou-business.git</developerConnection>
+        <url>http://gitlab.skboyed.xyz/missyou/missyou-business</url>
     </scm>
 
     <developers>
