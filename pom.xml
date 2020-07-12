@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>missyou-business</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.8-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>业务逻辑层</description>
 
